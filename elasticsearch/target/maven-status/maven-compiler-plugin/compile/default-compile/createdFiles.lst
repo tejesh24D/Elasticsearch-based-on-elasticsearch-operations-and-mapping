@@ -1,0 +1,9 @@
+com\example\elasticsearch\index\ElasticsearchIndexSetupService.class
+com\example\elasticsearch\ElasticsearchApplication.class
+com\example\elasticsearch\config\ElasticSearchConfig.class
+com\example\elasticsearch\controller\IndexSetupController.class
+com\example\elasticsearch\model\Product.class
+com\example\elasticsearch\repository\ProductRepository.class
+com\example\elasticsearch\config\WebMvcConfig.class
+com\example\elasticsearch\controller\ProductController.class
+com\example\elasticsearch\service\ProductService.class
